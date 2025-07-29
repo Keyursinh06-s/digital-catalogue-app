@@ -2,6 +2,9 @@
 
 A modern web application that allows businesses to upload PDF catalogues and enables customers to browse and select items interactively.
 
+## 🚀 Live Demo
+**Status: Ready for Production Deployment**
+
 ## Features
 
 ### 🚀 Core Functionality
@@ -197,3 +200,7 @@ For issues and questions:
 ---
 
 **Built with ❤️ for modern businesses**
+
+## 🚀 Quick Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Keyursinh06-s/digital-catalogue-app)
